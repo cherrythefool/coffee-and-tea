@@ -7,7 +7,7 @@ Charlie 2023 cohort at LEARN Academy has an interest in reaching for the stars, 
 - Meeting notes/planning - https://docs.google.com/document/d/13-YfHf4-xgxEmsgQ0ctl2QzYUGIkRvNMXbgh2Z1d4bk/edit?usp=sharing
 
 ### Milestones:
-- [ ] Basic concept determined and agreed on
+- [x] Basic concept determined and agreed on
 - [ ] Wireframing complete
 - [ ] Prototype built
 - [ ] UI completed
